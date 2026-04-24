@@ -1,6 +1,6 @@
 # Hi, I'm Winning David 👋
 
-**Data Analyst | Quantity Surveying Graduate | Lagos, Nigeria**
+**Data Analyst | QS background | Focused on construction, infrastructure, and public sector data in Africa | Open to remote roles**
 
 I combine a built-environment background with data skills to solve real problems in construction, infrastructure, and beyond. Currently building my data analytics portfolio and open to remote opportunities.
 
