@@ -21,8 +21,9 @@ I combine a built-environment background with data skills to solve real problems
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
 | 01 | [Lagos Construction Cost Analysis](https://github.com/buecious/construction-cost-analysis) | Excel | Cost variance dashboard across 17 Lagos infrastructure projects — budget vs actual, spend by category, monthly trends |
-| 02 | Nigeria Education Sector Dashboard | Tableau | Coming soon |
-| 03 | Remote Job Market Analysis | Python, SQL | Coming soon |
+| 02 | Nigeria Education Budget Analysis | Tableau + SQL(SQLite) | Ongoing |
+| 03 | African Construction Cost Estimator | SQL + Python | Coming soon |
+| 04 | Remote Job Market - Africa Focus | Python + SQL + Tableau | Coming soon |
 
 ---
 
