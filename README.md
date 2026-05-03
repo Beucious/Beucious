@@ -10,7 +10,8 @@ I combine a built-environment background with data skills to solve real problems
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
@@ -20,10 +21,10 @@ I combine a built-environment background with data skills to solve real problems
 
 | # | Project | Tools | Description |
 |---|---------|-------|-------------|
-| 01 | [Lagos Construction Cost Analysis](https://github.com/buecious/construction-cost-analysis) | Excel | Cost variance dashboard across 17 Lagos infrastructure projects — budget vs actual, spend by category, monthly trends |
-| 02 | Nigeria Education Budget Analysis | Tableau + SQL(SQLite) | Ongoing |
-| 03 | African Construction Cost Estimator | SQL + Python | Coming soon |
-| 04 | Remote Job Market - Africa Focus | Python + SQL + Tableau | Coming soon |
+| 01 | [Lagos Construction Cost Analysis](https://github.com/Beucious/construction-cost-analysis) | Excel | Cost variance dashboard across 17 Lagos infrastructure projects — budget vs actual, spend by category, monthly trends |
+| 02 | [Nigeria Education Sector Spending Analysis](https://github.com/Beucious/project-02-nigeria-education-budget) | Google Sheets + SQLite + Tableau | Analysis of Nigeria's federal education budget 2015-2025 — UNESCO benchmark gaps, funding trends, and political cycle patterns. [Live Dashboard](https://public.tableau.com/views/NigeriaEducationSectorSpendingAnalysis2015-2025/NigeriaEducationDashboard) |
+| 03 | African Construction Cost Estimator | SQL + Python | Pending |
+| 04 | Remote Job Market — Africa Focus | Python + SQL + Tableau | Pending |
 
 ---
 
@@ -47,8 +48,8 @@ I bring something most data analysts don't — hands-on construction site experi
 
 ## 📈 Currently
 
-- 🔨 Building: Lagos Construction Cost Analysis (Excel dashboard)
-- 📖 Learning: SQL and Python for data analysis
+- 🔨 Latest: Nigeria Education Sector Spending Analysis (Google Sheets + SQL + Tableau)
+- 📖 Learning: Python for data analysis
 - 🎯 Goal: Land a remote data analyst role by Q3 2026
 - 🪖 Next: NYSC — Federal Capital Territory, June 2026
 
